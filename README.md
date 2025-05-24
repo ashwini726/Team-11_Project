@@ -78,7 +78,7 @@ Varshini D V
 GitHub: [https://github.com/0varshiniDV0]
 
 Pradeep manddimani
-GitHub: [https://github.com/
+GitHub: [https://github.com/pradeepmaddimani]
 
 Imagees of our Project
 
