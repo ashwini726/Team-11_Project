@@ -60,19 +60,22 @@ git push → To upload project to GitHub
 
 To view the project:
 
-Clone this repo
-
-
-Open the folder
-
-Double click on the HTML file to open in browser
+1.Clone this repo
+git clone ["https://github.com/ashwini726/Team-11_Project"]
+2.Open the folder
+3.Double click on the HTML file to open in browser
 
 📞 Contact:
 
-Your Name
-GitHub: https://github.com/yourusername
+Ashwini N
+GitHub: [https://github.com/ashwini726]
+Varshini D V
+GitHub: [https://github.com/0varshiniDV0]
+Pradeep manddimani
+GitHub: [https://github.com/
+Imagees of our Project
+![Screenshot 2025-05-25 031559](https://github.com/user-attachments/assets/04cf5368-ae6d-452f-a614-fb880ea16f7d)
 
-Let me know if you want this as a file or want to include any screenshots also.
 
 
 
