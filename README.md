@@ -1,5 +1,7 @@
 🏅 Event Website
+
 Team-11 Project — Speakers Section
+
 Description
 This is a collaborative project by Team-11. My part in this project was to create the "Speakers" webpage using HTML and CSS. 
 I designed a section where we can clearly display five speakers with their names, photos, and the topics they will present at the event.
@@ -62,17 +64,22 @@ To view the project:
 
 1.Clone this repo
 git clone ["https://github.com/ashwini726/Team-11_Project"]
+
 2.Open the folder
+
 3.Double click on the HTML file to open in browser
 
 📞 Contact:
 
 Ashwini N
 GitHub: [https://github.com/ashwini726]
+
 Varshini D V
 GitHub: [https://github.com/0varshiniDV0]
+
 Pradeep manddimani
 GitHub: [https://github.com/
+
 Imagees of our Project
 ![Screenshot 2025-05-25 031559](https://github.com/user-attachments/assets/04cf5368-ae6d-452f-a614-fb880ea16f7d)
 
